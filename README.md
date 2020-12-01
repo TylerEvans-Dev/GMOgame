@@ -5,3 +5,4 @@ the resources used in this project are not my property and are attribiuted
 in the project. This code is free to use and modify.
 Thank you so much,
 Tyler Evans.
+addtionally you will need to enable the progam under secuity on mac once you reach the file path to run it!
